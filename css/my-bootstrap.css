@@ -1562,10 +1562,12 @@ fieldset:disabled a.btn {
 .rounded {
   border-radius: 0.25rem !important;
 }
+
 .rounded-right {
   border-top-right-radius: 0.25rem !important;
   border-bottom-right-radius: 0.25rem !important;
 }
+
 .rounded-circle {
   border-radius: 50% !important;
 }
@@ -1615,6 +1617,11 @@ fieldset:disabled a.btn {
 .align-self-center {
   -ms-flex-item-align: center !important;
   align-self: center !important;
+}
+
+.align-self-end {
+  -ms-flex-item-align: end !important;
+  align-self: flex-end !important;
 }
 
 
