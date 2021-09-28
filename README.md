@@ -1,4 +1,4 @@
-# ATOM project v2
+# ATOM project gh-pages
 
 > ### what i use
 > 1. html
