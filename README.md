@@ -1,4 +1,4 @@
-# ATOM project
+# ATOM project v2
 
 > ### what i use
 > 1. html
